@@ -12,7 +12,7 @@ public class Manajer extends Pegawai {
     public void tampilkanData() {
         System.out.println("Nama       : " + nama);
         System.out.println("ID Pegawai : " + idPegawai);
-        System.out.println("Gaji       : " + getGaji());
         System.out.println("Divisi     : " + divisi);
     }
 }
+
